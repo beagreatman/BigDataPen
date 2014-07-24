@@ -1,4 +1,4 @@
-
+老师自己加的文字
 关selinux 和 iptables
 [root@base ~]# vi /etc/selinux/config
 [root@base ~]# chkconfig iptables off
